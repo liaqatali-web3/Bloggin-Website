@@ -1,0 +1,13 @@
+{
+    "parameter":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/blog",
+        "depo_url":"mysql://root:@localhost/blog",
+        "facebook":"http://facebook.com",
+        "github":"https://github.com/liaqatali-web3",
+        "twitter":"https://twitter.com/liaqat_ali_pk",
+        "website_name":"The SASH Blogs",
+        "about":"This is me CEO Of SASH Liaqat Ali From Charsadda"
+    }
+}
